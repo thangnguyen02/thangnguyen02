@@ -5,7 +5,7 @@
 - 🔭 **I'm** currently working on **Ha Noi**
 - 👯 **I'm** currently pursuing B.Tech in IT!
 - 🌱 **I'm** currently learning everything
-- ✨ **2024 Goals**: Complete learning my** Full Stack Development Stack**
+- ✨ **2024 Goals**: Complete learning my **Full Stack Development Stack**
 - ⚡ **Fun fact**: I love gaming and chatting online
 
 ## 🌐Socials
