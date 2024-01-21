@@ -1,6 +1,6 @@
 
 # 💫About Me :
-- **Hi** there 👋👋, I'm **Huu Thang** 
+## **Hi** there 👋👋, I'm **Huu Thang** 
 - 👨‍💻 **I'm** a Student, Developer and Learner!
 - 🔭 **I'm** currently working on **Ha Noi**
 - 👯 **I'm** currently pursuing B.Tech in IT!
