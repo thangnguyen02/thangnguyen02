@@ -1,5 +1,6 @@
 
 # 💫About Me :
+
 ## **Hi** there 👋👋, I'm **Huu Thang** 
 - 👨‍💻 **I'm** a Student, Developer and Learner!
 - 🔭 **I'm** currently working on **Ha Noi**
@@ -8,6 +9,9 @@
 - ✨ **2024 Goals**: Complete learning my **Full Stack Development Stack**
 - ⚡ **Fun fact**: I love gaming and chatting online 😊
 
+## Daily
+<a href="https://app.daily.dev/thangnguyen02"><img src="https://api.daily.dev/devcards/v2/1vUTUw0nouxRZQ119GMFl.png?r=rb8" width="356" alt="Nguyễn Hữu Thắng's Dev Card"/></a>
+## :P
 ![me](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
 ## 🌐Socials
