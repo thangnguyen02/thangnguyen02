@@ -7,7 +7,7 @@
 - 👯 **I'm** currently pursuing B.Tech in IT!
 - 🌱 **I'm** currently learning everything
 - ✨ **2024 Goals**: Complete learning my **Full Stack Development Stack**
-- ⚡ **Fun fact**: I love gaming and chatting online 😊
+- ⚡ **Fun fact**: I love deep learning and software development 😊
 
 ## Daily
 <a href="https://app.daily.dev/thangnguyen02"><img src="https://api.daily.dev/devcards/v2/1vUTUw0nouxRZQ119GMFl.png?r=rb8" width="356" alt="Nguyễn Hữu Thắng's Dev Card"/></a>
