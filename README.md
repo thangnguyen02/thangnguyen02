@@ -8,7 +8,6 @@
 - 🌱 **I'm** currently learning everything
 - ✨ **2024 Goals**: Complete learning my **Full Stack Development Stack**
 - ⚡ **Fun fact**: I love deep learning and software development 😊
-## @T
 ![me](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/xenia2003) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nh.th9ng) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nh.th9ng) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nhth9ng) 
